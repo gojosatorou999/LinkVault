@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkVault | Premium Bookmark Manager</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>LinkVault</h1>
+            <p style="color: var(--text-secondary)">Secure your digital discoveries</p>
+        </header>
+
+        <section class="glass-card">
+            <form id="bookmark-form" class="input-group">
+                <input type="text" id="url" placeholder="Paste URL here..." required>
+                <div class="input-row">
+                    <input type="text" id="title" placeholder="Title (optional)">
+                    <input type="text" id="tags" placeholder="Tags (comma separated)">
+                    <button type="submit">
+                        <i class="fas fa-plus"></i> Save
+                    </button>
+                </div>
+            </form>
+        </section>
+
+        <section>
+            <div id="tag-filters" class="tag-filters">
+                <!-- Tags will be injected here -->
+            </div>
+            
+            <div id="bookmark-list" class="bookmark-list">
+                <!-- Bookmarks will be injected here -->
+            </div>
+        </section>
+    </div>
+
+    <script src="/static/js/main.js"></script>
+</body>
+</html>
