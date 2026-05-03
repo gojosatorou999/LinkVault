@@ -2,7 +2,7 @@
 
 LinkVault is a modern, high-performance bookmark management system built with Flask and MongoDB. It features a sleek glassmorphic UI, tag-based organization, and real-time interactions.
  
-## 🚀 Features
+## 🚀 Features 
 - **Modern UI**: Dark-themed, responsive glassmorphic design. 
 - **Tag Management**: Organize your links with custom tags. 
 - **Instant Search**: Filter bookmarks by tags effortlessly. 
