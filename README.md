@@ -1,4 +1,4 @@
-# LinkVault - MongoDB Bookmark Manager
+# LinkVault: MongoDB Bookmark Manager
 
 LinkVault is a modern, high-performance bookmark management system built with Flask and MongoDB. It features a sleek glassmorphic UI, tag-based organization, and real-time interactions.
  
