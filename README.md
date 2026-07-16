@@ -14,7 +14,7 @@ LinkVault is a modern, high-performance bookmark management system built with Fl
 - **Frontend**: HTML5, Vanilla CSS3, JavaScript (ES6+) 
   
 ## 📦 Project Structure 
-```text
+```text  
 .
 ├── app.py              # Flask server & API logic
 ├── requirements.txt    # Python dependencies
