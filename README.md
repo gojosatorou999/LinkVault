@@ -8,7 +8,7 @@ LinkVault is a modern, high-performance bookmark management system built with Fl
 - **Instant Search**: Filter bookmarks by tags effortlessly. 
 - **MongoDB Backend**: Reliable and scalable NoSQL storage.
  
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack   
 - **Backend**: Python, Flask, PyMongo 
 - **Database**: MongoDB 
 - **Frontend**: HTML5, Vanilla CSS3, JavaScript (ES6+) 
